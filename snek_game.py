@@ -1,3 +1,4 @@
+# // THIS SNAKE GAME IS NOT WORKING ON LINUX. It could work on another OS but I am not sure
 # original snek game
 
 import curses
